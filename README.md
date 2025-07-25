@@ -1,3 +1,1 @@
-# Web_Code_Editor_for_HTML_CSS_JS
-<img width="786" height="691" alt="image" src="https://github.com/user-attachments/assets/38828b3e-30cd-4e9b-bc8f-b204aff5ac6c" />
-
+![Recording 2025-07-25 at 15 58 20](https://github.com/user-attachments/assets/0c411f22-0fb8-4840-8c36-1d683891e259)
